@@ -39,7 +39,7 @@ Python3 练习题 100例
 
 ## [题目 6](https://github.com/woider/runoob/blob/master/sub_6.py) ##
 
-斐波那契数列。Fn = F[n-1]+ F[n-2](n=>2)
+斐波那契数列。
 
 > 斐波那契数列（Fibonacci sequence），又称黄金分割数列，指的是这样一个数列：0、1、1、2、3、5、8、13、21、34、……。
 
@@ -60,7 +60,14 @@ Python3 练习题 100例
 
 ## [题目 9](https://github.com/woider/runoob/blob/master/sub_9.py) ##
 
-模拟Linux用户登录。验证账号和密码，若不匹配则暂停三秒输出错误信息。
+模拟Linux用户登录。
 
-> 使用time模块的sleep()方法，可以让程序休眠一段时间。
+> 验证账号和密码，若失败则延迟三秒输出错误信息。
+
+
+## [题目 10](https://github.com/woider/runoob/blob/master/sub_10.py) ##
+
+格式化输出当前时间。
+
+> %Y 带世纪部分的十制年份，%m 十进制表示的月份，%d 十进制表示的每月的第几天，%H 24小时制的小时，%M 十时制表示的分钟数，%S 十进制的秒数。
 
