@@ -49,3 +49,10 @@ Python3 练习题 100例
 将一个列表的数据复制到另一个列表中。
 
 > 使用列表[:]。
+
+
+## [题目 8](https://github.com/woider/runoob/blob/master/sub_8.py) ##
+
+输出 9*9 乘法口诀表。
+
+> 分行与列考虑，共9行9列，i控制行，j控制列。
