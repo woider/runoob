@@ -42,3 +42,10 @@ Python3 练习题 100例
 斐波那契数列。Fn = F[n-1]+ F[n-2](n=>2)
 
 > 斐波那契数列（Fibonacci sequence），又称黄金分割数列，指的是这样一个数列：0、1、1、2、3、5、8、13、21、34、……。
+
+
+## [题目 7](https://github.com/woider/runoob/blob/master/sub_7.py) ##
+
+将一个列表的数据复制到另一个列表中。
+
+> 使用列表[:]。
