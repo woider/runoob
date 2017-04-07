@@ -56,3 +56,11 @@ Python3 练习题 100例
 输出 9*9 乘法口诀表。
 
 > 分行与列考虑，共9行9列，i控制行，j控制列。
+
+
+## [题目 9](https://github.com/woider/runoob/blob/master/sub_9.py) ##
+
+模拟Linux用户登录。验证账号和密码，若不匹配则暂停三秒输出错误信息。
+
+> 使用time模块的sleep()方法，可以让程序休眠一段时间。
+
