@@ -1,3 +1,5 @@
+# 质因数分解
+
 from math import sqrt
 
 global prime
