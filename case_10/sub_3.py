@@ -11,5 +11,11 @@ for i in range(10000):
     m = math.sqrt(i+268)
     if n%1==0 and m%1==0:
         print(i)
-    #print(m,n)
 
+'''
+以上实例输出结果为：
+
+21
+261
+1581
+'''
