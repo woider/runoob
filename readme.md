@@ -69,7 +69,7 @@ Python3 练习题 100例
 
 格式化输出当前时间。
 
-> 使用 time 模块，格式为 yyyy-mm-dd HH:mm:ss。
+> %Y 带世纪部分的十制年份，%m 十进制表示的月份，%d 十进制表示的每月的第几天，%H 24小时制的小时，%M 十时制表示的分钟数，%S 十进制的秒数。
 
 
 ## [题目 11](https://github.com/woider/runoob/blob/master/case_20/sub_11.py) ##
@@ -115,10 +115,3 @@ Python3 练习题 100例
 输出指定格式的日期。
 
 > 使用 datetime 模块。
-
-
-## [题目 17](https://github.com/woider/runoob/blob/master/case_20/sub_17.py) ##
-
-输入一行字符，分别统计出其中英文字母、空格、数字和其它字符的个数。
-
-> 利用while语句,条件为输入的字符不为'\n'。
